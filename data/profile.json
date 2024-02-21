@@ -46,6 +46,11 @@
   ],
   "portfolio": [
     {
+      "name": "Projeto site de filmes Backend em Python e Django",
+      "url": "https://github.com/PratesRoberta/flix-api",
+      "github": true
+    },
+    {
       "name": "Pokedex em Ajax e FastAPI",
       "url": "https://github.com/PratesRoberta/pokedex",
       "github": true
