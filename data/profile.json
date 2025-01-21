@@ -45,7 +45,11 @@
     "Inglês (iniciante)"
   ],
   "portfolio": [
-    
+     {
+      "name": "Clínica - utilizando JavaScript, Html e Css",
+      "url": "https://github.com/PratesRoberta/clinica",
+      "github": true
+    },
     {
       "name": "Pokedex - utilizando Ajax e FastAPI",
       "url": "https://github.com/PratesRoberta/pokedex",
@@ -63,6 +67,14 @@
     }
   ],
   "professionalExperience": [
+    {
+      "name": "Estágio / SERPRO",
+      "period": "2024",
+      "description": "Atuação no setor de BI, com criação de
+       gráficos e planilhas para reportar dados estratégicos. Participação na
+      coleta, tratamento e análise de dados, garantindo organização e
+      apresentação clara e precisa dos relatórios"
+    },
     {
       "name": "Estágio / INSS",
       "period": "2021 - 2022",
